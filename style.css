@@ -1,0 +1,16 @@
+.div {
+  display: flex;
+  width: 500px;
+  justify-content: space-between;
+}
+div {
+  border: 2px solid black;
+  width: 150px;
+  margin: 20px;
+  padding: 10px;
+}
+
+.div2 {
+  background-color: gold;
+  text-align: center;
+}
